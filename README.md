@@ -1,6 +1,6 @@
 # Savvy's 2.0 — Luxury E-commerce
 
-> Minimalist. High-performance. Agency-grade.
+> Minimalist. High-performance.
 
 Built with **Next.js 16.2**, **React 19**, **GSAP + ScrollTrigger**, **Tailwind CSS**, and **MongoDB** via Next.js Server Actions.
 
